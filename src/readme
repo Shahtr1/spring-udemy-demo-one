@@ -147,6 +147,13 @@ Q12 -> How can I create code to call the destroy method on prototype scope beans
 A   -> You can destroy prototype beans but custom coding is required.
 	https://drive.google.com/open?id=1262cK04FYe7x3blpp2wVv7gmkvRyA_cX
 	
+Q13 -> What are Java Annotations?
+A   -> Provide meta-data about the class
+	Processed at compile time or run-time for special processing.
+	Automatically register the beans in the Spring container of the class with annotation.	
+
+
+	
 	
 
 	
